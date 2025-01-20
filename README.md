@@ -1,2 +1,2 @@
-# apiary
-ExpediaGroup Bugbounty POC by @nvk0x
+# ExpediaGroup Bugbounty POC by @nvk0x
+## Hackerone POC
